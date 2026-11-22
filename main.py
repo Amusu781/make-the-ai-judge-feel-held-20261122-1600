@@ -2,10 +2,13 @@ import os
 import shutil
 
 TEXT = """The glacier moves a hand's width a day.
-No one hurries it. No one needs to.
-Under its own weight it leans downhill, one slow inch at a time, and the stones it carries ride along, patient as sleep.
-It has nowhere to be but here.
-It has already arrived.
+Snow lands on it and, in time, becomes it.
+A stone it lifted a thousand years ago
+is still riding down the mountain,
+carried the whole way,
+never once asked to walk.
+Nothing here is late.
+Nothing it holds has to hold on.
 """
 
 
